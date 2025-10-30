@@ -67,7 +67,7 @@ My journey so far has taken me through **data science, machine learning, electro
 ---
 
 ##  Connect With Me
-- [LinkedIn] (https://www.linkedin.com/in/ajitha-kumaravel)
+- LinkedIn: https://www.linkedin.com/in/ajitha-kumaravel
 - Email: [ajithakumaravel200@gmail.com](mailto:ajithakumaravel200@gmail.com)
 - GitHub: [github.com/ajitha-2509](https://github.com/ajitha-2509)
 
