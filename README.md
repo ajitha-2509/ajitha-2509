@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍🔬 About Me
-I'm a postgraduate physics student at VIT Chennai, passionate about blending **science, data, and technology** to solve real-world problems.  
+I'm a postgraduate physics student at **VIT Chennai**, passionate about blending **science, data, and technology** to solve real-world problems.  
 My journey so far has taken me through **data science, machine learning, electronics, and meteorology** — where I’ve applied computational methods to research and innovation.
 
 ---
@@ -69,7 +69,7 @@ My journey so far has taken me through **data science, machine learning, electro
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajitha-kumaravel)
 - ✉️ Email: [ajithakumaravel200@gmail.com](mailto:ajithakumaravel200@gmail.com)
-- 🌐 GitHub: [github.com/ajithakumaravel](https://github.com/ajithakumaravel)
+- 🌐 GitHub: [github.com/ajitha-2509](https://github.com/ajitha-2509)
 
 ---
 
